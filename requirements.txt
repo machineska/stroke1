@@ -1,0 +1,19 @@
+numpy
+streamlit
+scikit-learn==1.2.2
+imbalanced-learn
+matplotlib
+pandas
+plotly
+seaborn
+
+
+
+# 1. Pastikan telah menginstall library yang dibutuhkan
+# 2. buka streamlit cloud --> https://streamlit.io/cloud kemudian login menggunakan akun GitHub
+# 3. pilih New App di kanan atas lalu isi
+#	contoh :
+#	- Repository : merlaannisaa/klasifikasi
+#	- Branch : main
+#	- Main file path : app.py
+# 4. lalu klik deploy!
